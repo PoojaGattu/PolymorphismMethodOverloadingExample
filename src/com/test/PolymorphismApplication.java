@@ -10,6 +10,5 @@ public static void main(String[] args) {
 	  System.out.println("Circle area = "+ ca.area(1));
 	  System.out.println("Square area = "+ sa.area(2));
 	  System.out.println("Rectangle area = "+ ra.area(3,4));
-	  System.out.println("Triangle area = "+ ta.area(6,3));
 }
 }
